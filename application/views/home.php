@@ -69,9 +69,9 @@
           <p>Segala sesuatu yang berhubungan dengan kegiatan praktikum.</p>
         </div>
         <!-- <div class="card-action"> -->
-          <input class="waves-effect waves-light card-action" type="submit" value="PELAYANAN" href="http://infinite01.website/pelayanan">
+          <a class="waves-effect waves-light card-action" href="http://infinite01.website/pelayanan">PELAYANAN</a>
 					<!-- <div>PELAYANAN</div> -->
-			
+
         <!-- </div> -->
       </div>
     </div>

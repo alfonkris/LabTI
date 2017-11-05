@@ -86,7 +86,7 @@
   border-top: 1px solid rgba(100, 100, 100, 0.2) !important;
   font-family: 'Montserrat';
   font-weight: 500;
-  padding: 0px !important;
+  padding: 1em !important;
 }
 
 .card-action:hover{
