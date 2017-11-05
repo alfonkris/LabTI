@@ -13,8 +13,8 @@
 	<link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
 
 	<!--Fonts-->
-	<link href="https://fonts.googleapis.com/css?family=Raleway:400,500,600,700" rel="stylesheet">
-	<link href="https://fonts.googleapis.com/css?family=Montserrat:400,700" rel="stylesheet">
+	<link href="https://fonts.googleapis.com/css?family=Raleway:300,400,500,600,700" rel="stylesheet">
+	<link href="https://fonts.googleapis.com/css?family=Montserrat:300,400,500,600,700" rel="stylesheet">
 
 </head>
 
@@ -23,7 +23,7 @@
 <div class="navbar-custom">
 	<nav class="transparent z-depth-0">
 	<div class="nav-wrapper">
-    <a href="#!" class="brand-logo">
+    <a href="#" class="brand-logo">
     	<img class="logo" src="<?php echo base_url(); ?>asset/images/logo.png">
     </a>
     <a href="#" data-activates="mobile-demo" class="button-collapse">
