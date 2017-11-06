@@ -125,7 +125,7 @@
 	  </li>
 	</ul>
 
-	<a class="waves-effect waves-light btn term-button">next</a>
+	<a class="waves-effect waves-light btn term-button" href="http://infinite01.website/pelayanan">next</a>
 
 </div>
 

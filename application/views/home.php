@@ -69,7 +69,7 @@
           <p>Segala sesuatu yang berhubungan dengan kegiatan praktikum.</p>
         </div>
         <!-- <div class="card-action"> -->
-          <a class="waves-effect waves-light card-action" href="http://infinite01.website/pelayanan">PELAYANAN</a>
+          <a class="waves-effect waves-light card-action" href="<?php echo base_url(); ?>term">PELAYANAN</a>
 					<!-- <div>PELAYANAN</div> -->
 
         <!-- </div> -->
