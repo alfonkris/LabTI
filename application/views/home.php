@@ -26,7 +26,7 @@
     <a href="#" class="brand-logo">
     	<img class="logo" src="<?php echo base_url(); ?>asset/images/logo.png">
     </a>
-    <a href="#" data-activates="mobile-demo" class="button-collapse">
+    <!-- <a href="#" data-activates="mobile-demo" class="button-collapse">
       <i class="material-icons">menu</i>
     </a>
     <ul class="right hide-on-med-and-down">
@@ -38,7 +38,7 @@
 			<li><a href="#">HOME</a></li>
 			<li><a href="#">ABOUT</a></li>
 			<li><a href="#">CONTACT US</a></li>
-    </ul>
+    </ul> -->
   </div>
 	</nav>
 </div>
