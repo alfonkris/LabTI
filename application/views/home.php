@@ -23,7 +23,7 @@
 <div class="navbar-custom">
 	<nav class="transparent z-depth-0">
 	<div class="nav-wrapper">
-    <a href="#" class="brand-logo">
+    <a href="<?php echo base_url(); ?>" class="brand-logo">
     	<img class="logo" src="<?php echo base_url(); ?>asset/images/logo.png">
     </a>
     <!-- <a href="#" data-activates="mobile-demo" class="button-collapse">
