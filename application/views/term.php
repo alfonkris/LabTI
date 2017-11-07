@@ -115,7 +115,7 @@
 					selanjutnya agar praktikan dapat diizinkan masuk. Kemudian QR code tersebut
 					akan discan oleh PJ dan praktikan akan diberikan blanko yang harus dibayarkan
 					ke bank DKI sebagai denda ketidakhadiran.</li>
-					<div class="term-image-content"><img class="term-image" src="<?php echo base_url(); ?>asset/images/Step 14.png"></div>
+					<div class="term-image-content"><img class="term-image" src="<?php echo base_url(); ?>asset/images/Step 16.png"></div>
 					<li>Jika blanko sudah dibayarkan ke bank DKI, praktikan harus melakukan
 					konfirmasi blanko tersebut ke E535 kembali. Setelah blanko terkonfirmasi, PJ
 					baru dapat menilai tugas yang dikerjakan oleh praktikan tersebut.</li>
