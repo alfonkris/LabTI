@@ -109,7 +109,9 @@
 					upload yang berada di bawah tombol delete berwarna merah pada tampilan tugas seperti gambar pada langkah 8 (tombol upload warna hijau).
 					Kemudian praktikan harus memasukkan tugas dengan menekan tombol file seperti gambar di bawah.</li>
 					<div class="term-image-content"><img class="term-image" src="<?php echo base_url(); ?>asset/images/Step 14.png"></div>
-					<li>Setelah selesai menginput tugas, praktikan akan masuk ke tampilan QR code seperti gambar di bawah.
+					<li>Selanjutnya tugas yang sudah diupload tersebut akan dikonfirmasi oleh
+					staff pelayanan agar dapat dicetak QR code.</li>
+					<li>Setelah tugas terkonfirmasi, praktikan akan masuk ke tampilan QR code seperti gambar di bawah.
 					Cetak QR code tersebut dengan menekan tombol print berwarna biru. QR code
 					tersebut harus dibawa dan diserahkah ke PJ yang bersangkutan saat praktikum
 					selanjutnya agar praktikan dapat diizinkan masuk. Kemudian QR code tersebut
